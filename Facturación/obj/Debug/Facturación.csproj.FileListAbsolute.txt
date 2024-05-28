@@ -1,0 +1,27 @@
+C:\Users\ADMIN\source\repos\Facturación\Facturación\bin\Debug\Facturación.exe.config
+C:\Users\ADMIN\source\repos\Facturación\Facturación\bin\Debug\Facturación.exe
+C:\Users\ADMIN\source\repos\Facturación\Facturación\bin\Debug\Facturación.pdb
+C:\Users\ADMIN\source\repos\Facturación\Facturación\obj\Debug\Facturación.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Facturación\Facturación\obj\Debug\Facturación.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Facturación\Facturación\obj\Debug\Facturación.frmlogin.resources
+C:\Users\ADMIN\source\repos\Facturación\Facturación\obj\Debug\Facturación.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Facturación\Facturación\obj\Debug\Facturación.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Facturación\Facturación\obj\Debug\Facturación.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Facturación\Facturación\obj\Debug\Facturación.exe
+C:\Users\ADMIN\source\repos\Facturación\Facturación\obj\Debug\Facturación.pdb
+C:\Users\ADMIN\source\repos\Facturación\Facturación\obj\Debug\Facturación.frmMenu.resources
+C:\Users\ADMIN\source\repos\Facturación\Facturación\obj\Debug\Facturación.frmVentas.resources
+C:\Users\ADMIN\source\repos\Facturación\Facturación\obj\Debug\Facturación.frmIventario.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\TiendaApp\Facturación\bin\Debug\Facturación.exe.config
+C:\Users\Juan\Desktop\herramiestas de programacion\TiendaApp\Facturación\bin\Debug\Facturación.exe
+C:\Users\Juan\Desktop\herramiestas de programacion\TiendaApp\Facturación\bin\Debug\Facturación.pdb
+C:\Users\Juan\Desktop\herramiestas de programacion\TiendaApp\Facturación\obj\Debug\Facturación.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\herramiestas de programacion\TiendaApp\Facturación\obj\Debug\Facturación.frmlogin.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\TiendaApp\Facturación\obj\Debug\Facturación.frmIventario.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\TiendaApp\Facturación\obj\Debug\Facturación.frmVentas.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\TiendaApp\Facturación\obj\Debug\Facturación.frmMenu.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\TiendaApp\Facturación\obj\Debug\Facturación.Properties.Resources.resources
+C:\Users\Juan\Desktop\herramiestas de programacion\TiendaApp\Facturación\obj\Debug\Facturación.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\herramiestas de programacion\TiendaApp\Facturación\obj\Debug\Facturación.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\herramiestas de programacion\TiendaApp\Facturación\obj\Debug\Facturación.exe
+C:\Users\Juan\Desktop\herramiestas de programacion\TiendaApp\Facturación\obj\Debug\Facturación.pdb
